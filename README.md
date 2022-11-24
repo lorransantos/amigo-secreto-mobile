@@ -1,7 +1,7 @@
 # Amigo Secreto Mobile
 
 ### Sobre
-Aplicativo desenvolvido em React Native, com o objetiv de possibilitar adicionar uma pessoa a uma lista de participantes de um amigo secreto
+Aplicativo desenvolvido em React Native, com o objetivo de possibilitar adicionar uma pessoa a uma lista de participantes de um amigo secreto
 
 <hr />
 
